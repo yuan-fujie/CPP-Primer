@@ -10,9 +10,9 @@ C++ primer note
 
 ### 目录
 
-- [第一章. 开始](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch01/README.md)
+- [第一章. 开始](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch01)
 
 - 第一部分 C++ 基础
-  - [第 2 章. 变量和基本类型](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch02/README.md)
-  - [第 3 章. 字符串, 向量, and 数组](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch03/README.md)
+  - [第 2 章. 变量和基本类型](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch02)
+  - [第 3 章. 字符串, 向量, and 数组](https://github.com/yuan-fujie/myCppPrimer/tree/master/code/ch03)
 
